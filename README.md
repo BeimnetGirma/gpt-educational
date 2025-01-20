@@ -1,8 +1,8 @@
-# TwelveGPT Educational
+# GPT Educational
 
 ## Description
 
-TwelveGPT Educational is a basic retrieval-augmented chatbot framework designed to generate detailed reports about data. The system is built to provide users with the flexibility to create bots that can effectively discuss and interpret data in various contexts.
+GPT Educational is a basic retrieval-augmented chatbot framework designed to generate detailed reports about data. The system is built to provide users with the flexibility to create bots that can effectively discuss and interpret data in various contexts.
 
 This repository contains three applications: the Football Scout application, the Personality GPT application, and the International Survey application.
 
