@@ -10,7 +10,7 @@ The Football Scout application presents a bot that can describe players who play
 
 The Personality GPT application focuses on personality test data, generating "wordalisations" that describe individuals based on their answers to a personality test. 
 
-The International Survey application generates detailed reports about countries based on data derived from the World Value Survey (WVS). It illustrates the wordalisation method by comparing a country's scores across six social factors to their relative positions within the global distribution of scores. The app, implemented within the TwelveGPT Educational framework, serves as an example to guide others in building similar tools. 
+The International Survey application generates detailed reports about countries based on data derived from the World Value Survey (WVS). It illustrates the wordalisation method by comparing a country's scores across six social factors to their relative positions within the global distribution of scores. The app, implemented within the GPT Educational framework, serves as an example to guide others in building similar tools. 
 
 ## Usage
 
